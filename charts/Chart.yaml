@@ -1,0 +1,15 @@
+apiVersion: v1
+description: Capstone Test Project
+name: capstone-test
+version: 4.2.0
+appVersion: 0.16.0
+home: https://github.com/capstone
+sources:
+  - https://github.com/capstone
+keywords:
+  - capstone
+  - test
+  - project
+maintainers:
+  - name: pooja
+    email: pooja@desaintmartin.fr
